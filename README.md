@@ -1,5 +1,2 @@
 # JavaClassExercises
 
-Alişer
-jkljlk
-sdgsdg
